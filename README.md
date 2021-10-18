@@ -10,7 +10,7 @@ The goal of this project is to predict delays of flights in the first week of Ja
 ## [Predictions final CSV (broken link add final_predictions.csv later)](final_predictions.csv)
 
 ### ___________ Exploratory Analysis ____________
-![Total Flights](https://github.com/bmskarate/LH_midterm_project/blob/main/charting/total_flights_pie.png, width="250)
+![Total Flights](https://github.com/bmskarate/LH_midterm_project/blob/main/charting/total_flights_pie.png, width="150")
 
 
 [**Insert name of file here**](file_name.csv)  
@@ -22,7 +22,7 @@ The goal of this project is to predict delays of flights in the first week of Ja
 
 
 ### ___________ Data Engineering Notebooks ____________
-![Total Flights](https://github.com/bmskarate/LH_midterm_project/blob/main/charting/screen_shot_dictionary.png, width="250")
+![Total Flights](https://github.com/bmskarate/LH_midterm_project/blob/main/charting/screen_shot_dictionary.png, width="150")
 
 
 [**Insert name of file here**](file_name.csv)  
