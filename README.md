@@ -13,41 +13,42 @@ The goal of this project is to predict delays of flights in the first week of Ja
 ![Total Flights](https://github.com/bmskarate/LH_midterm_project/blob/main/charting/total_flights_pie.png)
 
 
-[Insert name of file here](file_name.csv)
-[Insert name of file here](file_name.csv)
-[Insert name of file here](file_name.csv)
-[Insert name of file here](file_name.csv)
-[Insert name of file here](file_name.csv)
-[Insert name of file here](file_name.csv)
+[**Insert name of file here**](file_name.csv)
+[**Insert name of file here**](file_name.csv)
+[**Insert name of file here**](file_name.csv)
+[**Insert name of file here**](file_name.csv)
+[**Insert name of file here**](file_name.csv)
+[**Insert name of file here**](file_name.csv)
+
 
 ### ___________ Data Engineering Notebooks ____________
 ![Total Flights](https://github.com/bmskarate/LH_midterm_project/blob/main/charting/screen_shot_dictionary.png)
 
 
-[Insert name of file here](file_name.csv)
-[Insert name of file here](file_name.csv)
-[Insert name of file here](file_name.csv)
-[Insert name of file here](file_name.csv)
-[Insert name of file here](file_name.csv)
-[Insert name of file here](file_name.csv)
+[**Insert name of file here**](file_name.csv)
+[**Insert name of file here**](file_name.csv)
+[**Insert name of file here**](file_name.csv)
+[**Insert name of file here**](file_name.csv)
+[**Insert name of file here**](file_name.csv)
+[**Insert name of file here**](file_name.csv)
 
 ### ___________ Exploratory Analysis ____________
 
-[Insert name of file here](file_name.csv)
-[Insert name of file here](file_name.csv)
-[Insert name of file here](file_name.csv)
-[Insert name of file here](file_name.csv)
-[Insert name of file here](file_name.csv)
-[Insert name of file here](file_name.csv)
+[**Insert name of file here**](file_name.csv)
+[**Insert name of file here**](file_name.csv)
+[**Insert name of file here**](file_name.csv)
+[**Insert name of file here**](file_name.csv)
+[**Insert name of file here**](file_name.csv)
+[**Insert name of file here**](file_name.csv)
 
 ### ___________ Exploratory Analysis ____________
 
-[Insert name of file here](file_name.csv)
-[Insert name of file here](file_name.csv)
-[Insert name of file here](file_name.csv)
-[Insert name of file here](file_name.csv)
-[Insert name of file here](file_name.csv)
-[Insert name of file here](file_name.csv)
+[**Insert name of file here**](file_name.csv)
+[**Insert name of file here**](file_name.csv)
+[**Insert name of file here**](file_name.csv)
+[**Insert name of file here**](file_name.csv)
+[**Insert name of file here**](file_name.csv)
+[**Insert name of file here**](file_name.csv)
 
 ### System requirements
 * Operating system * : Mac OS: Big Sur
