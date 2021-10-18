@@ -22,9 +22,8 @@ The goal of this project is to predict delays of flights in the first week of Ja
 
 
 ### ___________ Data Engineering Notebooks ____________
-<img align="left" width="150" src="https://github.com/bmskarate/LH_midterm_project/blob/main/charting/screen_shot_dictionary.png">
-
-
+  
+  
 [**Insert name of file here**](file_name.csv)  
 [**Insert name of file here**](file_name.csv)  
 [**Insert name of file here**](file_name.csv)  
