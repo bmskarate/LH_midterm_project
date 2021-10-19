@@ -10,7 +10,7 @@ The goal of this project is to predict delays of flights in the first week of Ja
 ## [Predictions final CSV (broken link add final_predictions.csv later)](final_predictions.csv)
 
 ### ___________ Exploratory Analysis ____________
-![Weather Delays](https://github.com/bmskarate/LH_midterm_project/blob/main/charting/Weather_delay.png){:height="50%" width="50%"}
+![Weather Delays](https://github.com/bmskarate/LH_midterm_project/blob/main/charting/Weather_delay.png){:height="120px" width="150px"}
 
 
 [**Main EDA**](https://github.com/bmskarate/LH_midterm_project/blob/main/exploratory_analysis.ipynb)  
