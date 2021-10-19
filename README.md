@@ -20,7 +20,7 @@ The goal of this project is to predict delays of flights in the first week of Ja
 ### ___________ Data Engineering Notebooks ____________
   
   
-[**Flights Cleaning**](https://github.com/bmskarate/LH_midterm_project/blob/main/flights_cleaning.ipynb  
+[**Flights Cleaning**](https://github.com/bmskarate/LH_midterm_project/blob/main/flights_cleaning.ipynb)   
 
 
 ### ___________ Modelling ____________
