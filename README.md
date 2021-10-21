@@ -32,12 +32,13 @@ This repository contains following main files:
   
 [**Flights Cleaning**](https://github.com/bmskarate/LH_midterm_project/blob/main/flights_cleaning.ipynb)   
 [**Flight Test Cleaning**](https://github.com/bmskarate/LH_midterm_project/blob/main/Flight_test_clean_final.ipynb)  
-[**ML Modelling**](https://github.com/bmskarate/LH_midterm_project/blob/main/ML_play_around.ipynb)
+
   
 
 ### ___________ Modelling ____________
-
-[**Modelling Main**](https://github.com/bmskarate/LH_midterm_project/blob/main/modeling.ipynb)  
+  
+[**Modelling Main**](https://github.com/bmskarate/LH_midterm_project/blob/main/ML_play_around.ipynb)
+[**Modelling Trial**](https://github.com/bmskarate/LH_midterm_project/blob/main/modeling.ipynb)  
 [**Final Submission**](https://github.com/bmskarate/LH_midterm_project/blob/main/lou_nik_submission.csv)  
   
 
